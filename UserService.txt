@@ -5,4 +5,8 @@ process data
 
 we are going to do some more work on it.
 
+<<<<<<< HEAD
 feature3 changes 
+=======
+change for main
+>>>>>>> cae8a7a (main some change)
