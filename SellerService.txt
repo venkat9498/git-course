@@ -1,3 +1,9 @@
 this is to process data for the seller 
 
+<<<<<<< HEAD
 git checkin and checkout
+=======
+new product added
+
+one more product added
+>>>>>>> feature2
