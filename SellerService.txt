@@ -1,1 +1,12 @@
+<<<<<<< Updated upstream
 this is to process data for the seller 
+=======
+this is to process data for the seller 
+
+
+new product added
+
+one more product added
+ we are going to do some stash changes here
+ and it will need to stash it
+>>>>>>> Stashed changes
